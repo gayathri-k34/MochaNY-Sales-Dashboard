@@ -70,26 +70,27 @@ Data Visualization Techniques
    -> Store Comparison Chart
 
 ## Insights
-1. Product Category Performance
-   
-   Peak Sales Hours: Sales consistently peak between 8 AM – 11 AM, indicating strong morning demand.
+1. Best Performing Month: June – ~$166K  & Lowest Performing Month: February – ~$76K 
 
-2. Best-performing Month
-   Highest revenue observed in March, driven by seasonal increases.
+2. Time of Day: Morning hours (7 AM – 10 AM) are the strongest, slowly declining after that.
 
-3. Store Performance
-   Store locations with high foot traffic generated the most revenue, suggesting expansion potential.
+3. Coffee, Tea, Bakery and Hot Chocolate bring in the most revenue across all three locations.
 
-4. Top Product Categories
-   Coffee beverages and bakery items drive the largest share of sales.
-   
+4. MochaNY in Astoria performs well in the evening compared to the Hell's Kitchen and Lower Manhattan locations - more than      3K transactions every hour after the peak hour (10 AM) until it closes down for the day.
+
+5. Hell's Kitchen Branch brings in ~$236K, higher than the other two locations and performs best on Tuesdays, Fridays and        Sundays.
+
+6. The Lower Manhattan Branch brings in ~$230K in revenue, lower than the other two branches but still in the same range and     performs best on Mondays (>7K transactions). The last two hours of the day bring in the lowest transaction amount,            especiall compared to the other two branches.
+
+7. Overall all 3 branches have similar revenue contributions with the morning hours being the peak. Product Category             performances are similar across all 3 branches
+
 
 ## Recommendations
-   1. Increase staffing during morning hours to manage peak demand efficiently
+   1. Ensure maximum staffing and inventory between 7–10 AM
       
-   2. Introduce monthly combo offers during off-peak months to balance revenue
+   2. Introduce express combos (Coffee + snack) to increase AOV
 
-   3. Promote underperforming categories with targeted discounts or bundles
+   3. Promote evening only offers like evening discounts, bundle offers in Hell's Kitchen and Lower Manhattan branches to           increase evening performance.
 
-   4. Expand inventory of top-selling products to avoid stockouts
+   5. Expand inventory of top-selling products including barrista espresso, Chai tea and Hot Chocolate to avoid stockouts.
   
